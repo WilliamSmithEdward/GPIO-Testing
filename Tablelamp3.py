@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-########################################################################
-# Filename    : Tablelamp3.py
-# Description : DIY MINI table lamp
-# Author      : www.freenove.com
-# modification: 2019/12/27
-########################################################################
 from gpiozero import LED, Button
 from signal import pause
 from time import sleep
